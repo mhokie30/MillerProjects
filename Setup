@@ -1,7 +1,12 @@
-1. Install dependancies:
+1. Install dependancies & Other prerequisites:
+  - Install Python
+  - Install FFmpeg
+  - pip install transformers
   - pip install pyaudio
   - pip install pyserial
   - pip install openai-whisper
+  - pip install hf_xet
+  
 
 If you have an error these are some common issues:
 
